@@ -1,0 +1,12 @@
+N = int(input('digite o numero para exibir a sua tabuada: '))
+
+print('1: {}'.format(N))
+print('2: {}'.format(N*2))
+print('3: {}'.format(N*3))
+print('4: {}'.format(N*4))
+print('5: {}'.format(N*5))
+print('6: {}'.format(N*6))
+print('7: {}'.format(N*7))
+print('8: {}'.format(N*8))
+print('9: {}'.format(N*9))
+print('10: {}'.format(N*10))
